@@ -15,5 +15,7 @@ Repository: <https://github.com/huot14/vaporworld>
 A two player asymmetric co-op game, where players must work together to escape an alien space ship.    
 Repository: <https://github.com/taurheim/Fungi>       
 
-
+## Darkzone
+The enemies only move when you are not looking. The player gets a flashlight and tries to stay alive. Inspired by the Weeping Angels from Doctor Who. Created mainly as a concept for a horror/thriller game. Made with Unity and C#.
+![image](darkzone.png)
 
