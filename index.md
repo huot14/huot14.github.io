@@ -19,3 +19,7 @@ Repository: <https://github.com/taurheim/Fungi>
 The enemies only move when you are not looking. The player gets a flashlight and tries to stay alive. Inspired by the Weeping Angels from Doctor Who. Created mainly as a concept for a horror/thriller game. Made with Unity and C#.
 ![image](darkzone.png)
 
+## OpenGL Terrain
+Generating and modifying terrain with OpenGL. For a computer graphics course assignment.
+Repository: <https://github.com/huot14/terrain>
+![image](terrain.png)
