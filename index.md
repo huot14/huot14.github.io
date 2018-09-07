@@ -28,8 +28,7 @@ A multiplayer first person shooter in a destructible environment made of cubes. 
 ## Vaporworld
 An interactive world designed to visually compliment vaporwave music.        
 Demo: <https://www.youtube.com/watch?v=jADlmV4CGWE>       
-Repository: <https://github.com/huot14/vaporworld>     
-![image](vprwrld3.png)
+Repository: <https://github.com/huot14/vaporworld>       
 ![gif](vw1.gif)
 ![gif](vw2.gif)
 
