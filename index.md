@@ -17,9 +17,10 @@ A multiplayer first person shooter in a destructible environment made of cubes. 
 ## Vaporworld
 An interactive world designed to visually compliment vaporwave music.        
 Demo: <https://www.youtube.com/watch?v=jADlmV4CGWE>       
-Repository: <https://github.com/huot14/vaporworld>       
+Repository: <https://github.com/huot14/vaporworld>     
 ![image](vprwrld3.png)
-![image](vprwrld2.png)
+![gif](vw1.gif)
+![gif](vw2.gif)
 
 ## Darkzone
 The enemies only move when you are not looking. The player gets a flashlight and tries to stay alive. Inspired by the Weeping Angels from Doctor Who. Created mainly as a concept for a horror/thriller game. Made with Unity and C#.
