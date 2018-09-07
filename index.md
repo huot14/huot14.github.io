@@ -11,7 +11,8 @@ Repository: <https://github.com/taurheim/Fungi/wiki>
 
 ## Cube War
 A multiplayer first person shooter in a destructible environment made of cubes. Made with Unity and C#.
-![image](cubewar1.PNG)
+![gif](cw.gif)
+![gif](cw2.gif)
 
 ## Vaporworld
 An interactive world designed to visually compliment vaporwave music.        
