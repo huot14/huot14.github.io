@@ -5,8 +5,10 @@
 A two player asymmetric co-op game, where players must work together to escape an alien space ship.      
 Intro: <https://www.youtube.com/watch?v=aLSUML0rpxI>      
 Repository: <https://github.com/taurheim/Fungi/wiki>         
-![image](fa1.PNG)
-![image](fa2.PNG)
+![gif](fa1.gif)
+![gif](fa2.gif)
+![gif](fa3.gif)
+![gif](fa4.gif)
 ![image](fa3.PNG)
 
 ## Cube War
