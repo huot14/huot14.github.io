@@ -10,7 +10,7 @@ Repository: <https://github.com/taurheim/Fungi/wiki>
 ![image](fa3.PNG)
 
 ## Cube War
-A multiplayer first person shooter in a destructible environment made of cubes. Made with Unity and C#.
+A multiplayer first person shooter in a destructible environment made of cubes. Made with Unity and C#.              
 ![gif](cw.gif)
 ![gif](cw2.gif)
 
