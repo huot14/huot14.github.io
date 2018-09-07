@@ -2,14 +2,23 @@
 # Projects
 
 ## Follicle Abduction
-A two player asymmetric co-op game, where players must work together to escape an alien space ship.      
+A two player asymmetric co-op game, where players must work together to escape an alien space ship. One player plays as a human trying to escape while the other is an alien trying to help.      
 Intro: <https://www.youtube.com/watch?v=aLSUML0rpxI>      
 Repository: <https://github.com/taurheim/Fungi/wiki>         
-![gif](fa1.gif)
-![gif](fa2.gif)
-![gif](fa3.gif)
-![gif](fa4.gif)
-![image](fa3.PNG)
+![gif](fa1.gif)               
+*Beginning of game, the human player must find the correct door to open*            
+
+![gif](fa2.gif)            
+*Opening the correct door*        
+
+![gif](fa3.gif)         
+*Sneaking past a guard*         
+
+![gif](fa4.gif)        
+*Finding a fuel cell for the escape pod*        
+
+![image](fa3.PNG)         
+*The view of the alien player*         
 
 ## Cube War
 A multiplayer first person shooter in a destructible environment made of cubes. Made with Unity and C#.              
