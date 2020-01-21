@@ -3,7 +3,7 @@
 
 ## You or me
 A single player puzzle solving game inspired by minesweeper, where players must traverse through a level without activating traps. Created for the Ludum Dare 43.        
-https://ldjam.com/events/ludum-dare/43/you-or-me   
+<https://ldjam.com/events/ludum-dare/43/you-or-me>
 
 ![image](youorme.png)
 
