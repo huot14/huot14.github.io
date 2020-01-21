@@ -1,6 +1,12 @@
 
 # Projects
 
+## You or me
+A single player puzzle solving game inspired by minesweeper, where players must traverse through a level without activating traps. Created for the Ludum Dare 43.        
+https://ldjam.com/events/ludum-dare/43/you-or-me   
+
+![image](youorme.png)
+
 ## Follicle Abduction
 A two player asymmetric co-op game, where players must work together to escape an alien space ship. One player plays as a human trying to escape while the other is an alien trying to help.      
 Intro: <https://www.youtube.com/watch?v=aLSUML0rpxI>      
@@ -19,14 +25,6 @@ Repository: <https://github.com/taurheim/Fungi/wiki>
 
 ![image](fa3.PNG)         
 *The view of the alien player*    
-
-## You or me
-A single player puzzle solving game inspired by minesweeper, where players must traverse through a level without activating traps. Created for the Ludum Dare 43.        
-Repository: https://github.com/huot14/LD43     
-Web Player: https://huot14.github.io/LD43/
-
-![image](youorme.png)
-
 
 ## Cube War
 A multiplayer first person shooter in a destructible environment made of cubes. Made with Unity and C#.              
