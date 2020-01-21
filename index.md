@@ -22,7 +22,8 @@ Repository: <https://github.com/taurheim/Fungi/wiki>
 
 ## You or me
 A single player puzzle solving game inspired by minesweeper, where players must traverse through a level without activating traps. Created for the Ludum Dare 43.        
-Repository: https://github.com/huot14/LD43        
+Repository: https://github.com/huot14/LD43     
+Web Player: https://huot14.github.io/LD43/
 
 ![image](youorme.png)
 
